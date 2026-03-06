@@ -1,8 +1,8 @@
 class Keys < Formula
   desc "Manage API keys locally from the terminal"
   homepage "https://github.com/stym06/keys"
-  url "https://github.com/stym06/keys/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "0f1e9b22227eec0aa6c9dbd1de523b59f416fec100b9de63b10796a82711eb0e"
+  url "https://github.com/stym06/keys/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "969051e2af0f0604da6aeb1976143968c9f401d0cbc0726a32a027d09c1dc2e7"
   license "MIT"
 
   depends_on "go" => :build
